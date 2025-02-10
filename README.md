@@ -92,8 +92,9 @@ Example output:
 │
 ├── Dockerfile             # Dockerfile for containerization
 ├── code_detective.py      # Python script for scanning C/C++ code
-├── requirements.txt       # (Optional) Python dependencies
+├── test.c                 # Vulnerable C Code for testing
 └── README.md              # This README file
+└── LICENSE                # The project license
 ```
 
 ## Contributing
@@ -103,8 +104,3 @@ Contributions are welcome! Please fork this repository and submit a pull request
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
----
-
-This `README.md` provides a comprehensive guide to using your project, including both Python and Docker setups. Let me know if you'd like to customize it further!
