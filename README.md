@@ -1,4 +1,4 @@
-# Code Detective - Advanced C/C++ Security Scanner
+# Code Detective
 
 ## Overview
 
